@@ -7,7 +7,7 @@ description: 将人物照片转换为三色黑墨金赭插画肖像：纯白纸�
 
 把照片转绘成三色插画：**纯白 + 纯黑墨线 + 平涂金赭**。不是水彩淡彩，不是铅笔速写——色数只有三种，线条粗细统一，衣服只画线不上色。
 
-风格唯一标准见 `assets/style-anchor-v8.png`，详细规范见 [视觉规范](references/visual-style.md)。
+风格唯一标准见 `assets/style-anchor-v8.jpg`，详细规范见 [视觉规范](references/visual-style.md)。
 
 ## 输入与默认结果
 
