@@ -1,0 +1,4 @@
+interface:
+  display_name: "三色黑墨金赭肖像"
+  short_description: "将人物照片转绘为纯白纸底、黑墨统一线条、平涂金赭的三色插画肖像"
+  default_prompt: "使用 $nobel-ink-gold-portrait，将我提供的人物照片转换为三色黑墨金赭插画风格，保留人物长相、年龄、发型与眼镜，衣服只画线条不上色。"
